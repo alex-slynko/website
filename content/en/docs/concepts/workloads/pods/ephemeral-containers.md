@@ -9,7 +9,7 @@ weight: 80
 
 <!-- overview -->
 
-{{< feature-state state="alpha" for_k8s_version="v1.16" >}}
+{{< feature-state state="beta" for_k8s_version="v1.20" >}}
 
 This page provides an overview of ephemeral containers: a special type of container
 that runs temporarily in an existing {{< glossary_tooltip term_id="pod" >}} to
